@@ -1,10 +1,10 @@
 GLUSTER FS 
 
 
-Host Name	              IP Address	  OS	       Memory      Disk	         Purpose
-gluster1.itzgeek.local	192.168.12.16	CentOS 7	1GB	/dev/sdb (5GB)	Storage Node 1
-gluster2.itzgeek.local	192.168.12.17	RHEL 7  	1GB	/dev/sdb (5GB)	Storage Node 2
-client.itzgeek.local	  192.168.12.8	Ubuntu 16.04	NA	NA	        Client Machine
+Host Name	               IP Address	    OS	        Memory         Disk	         Purpose
+gluster1.itzgeek.local	 192.168.12.16  	CentOS 7	 1GB	/dev/sdb   (5GB)	       Storage Node 1
+gluster2.itzgeek.local	 192.168.12.17	  RHEL 7  	 1GB	/dev/sdb   (5GB)	       Storage Node 2
+client.itzgeek.local	   192.168.12.8	  Ubuntu 16.04	NA	NA	                   Client Machine
 
 
 sudo vi /etc/hosts
